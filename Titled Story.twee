@@ -7,17 +7,24 @@ Titled Story
   "ifid": "80D12B40-65DF-4605-9386-13B98C75C270",
   "format": "Harlowe",
   "format-version": "3.3.9",
-  "start": "Untitled Passage",
+  "start": "Gotta Go",
   "zoom": 1
 }
 
 
-:: The Toilet {"position":"850,375","size":"100,100"}
-You go poop. It stinks.
-
-
-
-:: Untitled Passage {"position":"725,375","size":"100,100"}
+:: Gotta Go {"position":"725,375","size":"100,100"}
 YOU HAVE TO POOP!
 
+[[Nope. False alarm]]
 
+
+
+:: Nope. False alarm {"position":"725,575","size":"100,100"}
+You only thought you had to poop. However you got a good chance to answer some email.
+
+[[Oh wait, do I have to poop?|Gotta Go]]
+
+
+
+:: The Toilet {"position":"850,375","size":"100,100"}
+You go poop. It stinks.
